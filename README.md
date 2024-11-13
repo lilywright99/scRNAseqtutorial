@@ -4,6 +4,7 @@ https://drive.google.com/drive/folders/1-1-WJ0_o0QI4xrBS8hpqqsS8Obo2iEgx?usp=dri
 
 We will use Python in google co-lab for the first day
 - Create a google ID first if you don't have one
+- Co-lab will also run better if you use google chrome
 - Open the SinglecellRNAsequencinganalysis.ipynb' and click the launch in google colab button on the top left corner
 - Solutions will be made available at the end of the day. 
 
