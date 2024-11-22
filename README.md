@@ -11,9 +11,10 @@ We will use Python in google co-lab for the first day
 We will use the data file 'Hufallopiantube.h5ad'
 - Download this to your computer and place it in your google drive
 
-The second day we will use R  in google co-lab
+The second, third, and fourth day we will use R  in google co-lab
 We will need 'X.csv', 'vars.csv' and 'obs.csv' - These contain the gene expression matrix, the gene names, and the observations/metadata
-- Download these to your computer, and upload them to the Runtime session storage, the X.csv will take a while to upload 
+- Download these to your computer, and upload them to the Runtime session storage, the X.csv will take a while to upload
+- Do remember to change Runtime type to R
 
 
 
